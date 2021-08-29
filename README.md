@@ -1,12 +1,13 @@
-![I am web designer, Developer and SEO Specialist](https://media-exp1.licdn.com/dms/image/C4D16AQFtcZJFRNz2dg/profile-displaybackgroundimage-shrink_350_1400/0/1628174241454?e=1635984000&v=beta&t=G6KjkVylyIm3wD3U3426PW2EmCb3Y8S1_0NufFvBQMc)
-### Hi there 👋, my name is Sobuj Mih
-#### I am web designer, Developer and SEO Specialist
+![I am a web designer, Developer, and SEO Specialist](https://media-exp1.licdn.com/dms/image/C4D16AQFtcZJFRNz2dg/profile-displaybackgroundimage-shrink_350_1400/0/1628174241454?e=1635984000&v=beta&t=G6KjkVylyIm3wD3U3426PW2EmCb3Y8S1_0NufFvBQMc)
+# Hi there 👋, my name is Sobuj Mih
+### I am a web designer, Developer, and SEO Specialist
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+My self Sobuj Miah and by professional Web design, Development, and SEO with five years journey by client satisfaction. If anyone needed this requirement Please contact me. I will provide my best 24/7 hours service.
 
 Skills: HTML / CSS/JavaScript/ jQuery/PHP
 
-- 🔭 I’m currently working on globaltouch website 
+- 🔭 I’m currently working on a global touch website 
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Web Design, Development, And SEO 
 
@@ -20,7 +21,5 @@ Skills: HTML / CSS/JavaScript/ jQuery/PHP
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-sobuj-miah&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md-sobuj-miah)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=md-sobuj-miah)  
 
 ![Profile views](https://gpvc.arturio.dev/md-sobuj-miah)  
