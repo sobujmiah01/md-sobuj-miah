@@ -1,5 +1,5 @@
 ![I am a web designer, Developer, and SEO Specialist](https://media-exp1.licdn.com/dms/image/C4D16AQFtcZJFRNz2dg/profile-displaybackgroundimage-shrink_350_1400/0/1628174241454?e=1635984000&v=beta&t=G6KjkVylyIm3wD3U3426PW2EmCb3Y8S1_0NufFvBQMc)
-# Hi there 👋, my name is Sobuj Mih
+# Hi there 👋, my name is Sobuj Miah
 ### I am a web designer, Developer, and SEO Specialist
 
 
